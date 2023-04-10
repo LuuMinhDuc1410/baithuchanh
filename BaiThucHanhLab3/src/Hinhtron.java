@@ -1,7 +1,7 @@
 import java.util.Scanner;
 
 
-public class HinhTron {
+public class Hinhtron {
     final float Pi = 3.14f;
     float r;
     float cv;
