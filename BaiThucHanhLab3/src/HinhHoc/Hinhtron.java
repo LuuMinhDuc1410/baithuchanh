@@ -1,3 +1,5 @@
+package HinhHoc;
+
 import java.util.Scanner;
 
 
